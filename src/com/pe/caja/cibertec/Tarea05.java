@@ -14,8 +14,7 @@ public class Tarea05 {
 		System.out.println("El valor del inicio de la diagonal primera es: "+diago1Valor1);
 		int ultimaPosicion=valor1 % 10000 % 1000 % 100 % 10;
 		System.out.println("El valor de la ultima diagonal es: "+ultimaPosicion);
-		
-		
+				
 		System.out.println("Ingrese el valor 2 con 5 digitos: ");
 		int valor2 = scanner.nextInt();	
 		int diago1Valor2=valor2 / 1000 % 10;

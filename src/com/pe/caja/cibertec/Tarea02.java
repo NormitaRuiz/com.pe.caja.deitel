@@ -10,7 +10,7 @@ public class Tarea02 {
 		long grupo1;
 		long grupo2;
 		long grupo3;		
-		
+				
 		Scanner scanner=new Scanner(System.in);
 		System.out.println("Ingrese un numero entero de 15 digitos");
 		
