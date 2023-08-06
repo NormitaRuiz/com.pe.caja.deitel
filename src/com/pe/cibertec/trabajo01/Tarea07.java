@@ -1,4 +1,4 @@
-package com.pe.caja.cibertec;
+package com.pe.cibertec.trabajo01;
 
 public class Tarea07 {
 

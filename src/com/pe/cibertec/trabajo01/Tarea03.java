@@ -1,11 +1,10 @@
-package com.pe.caja.cibertec;
+package com.pe.cibertec.trabajo01;
 
 import java.util.Scanner;
 
 public class Tarea03 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
 		Scanner scanner=new Scanner(System.in);
 		System.out.println("Ingrese cantidad de sobres a ordenar: ");

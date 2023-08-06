@@ -1,12 +1,11 @@
-package com.pe.caja.cibertec;
+package com.pe.cibertec.trabajo01;
 
 import java.util.Scanner;
 
 public class Tarea02 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		
+			
 		long grupo1;
 		long grupo2;
 		long grupo3;		
