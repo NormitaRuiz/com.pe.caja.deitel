@@ -6,7 +6,10 @@ import java.util.Scanner;
 public class Tarea10 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		/*
+		 * Escriba un programa que calcule e imprima el valor de la sumatoria de los N primeros
+			términos de la serie 1-1/2+1/4-1/8+1/16+...
+		*/
 
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Cantidad de terminos: ");
